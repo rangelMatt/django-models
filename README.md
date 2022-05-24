@@ -25,8 +25,8 @@ To initiate tests, run `python3 manage.py test`# django-models
 ### Tasks
 
 #### Model
-- [x]create snack_tracker_project project
-- [x]This will involve some preliminary steps.
+- [x] create snack_tracker_project project
+[x] - This will involve some preliminary steps.
 - [x]Review previous class lab for details.
 - [x]create snacks app
 - [x]Add snacks app to project
