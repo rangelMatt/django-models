@@ -21,4 +21,3 @@ To deploy locally:
 ### Tests
 
 To initiate tests, run `python3 manage.py test`# django-models
-
