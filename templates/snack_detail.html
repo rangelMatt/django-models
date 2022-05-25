@@ -1,0 +1,8 @@
+{% block content %}
+<a href="{% url 'snack_list' %}">Home</a>
+<div>
+<h2>{{ snack.name }}</h2>
+<p>{{ snack.description }}</p>
+<p>{{ snack.purchaser }}</p>
+</div>
+{% endblock content %}
